@@ -17,7 +17,7 @@ Task Manager yang saya buat hanya bisa di running pada windows saja karena ini d
 - **Python**
 - **Flask**
 
-## Library Python
+## Liblary Python
 - **Flask**
 - **psutil**
 - **platform**
