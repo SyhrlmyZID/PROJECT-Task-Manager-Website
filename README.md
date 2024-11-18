@@ -25,7 +25,7 @@ Script ini hanya bisa dijalankan pada system windows saja, untuk linux, mac os, 
 
 3. Jakankan Script:
    ```bash
-   python app.py
+   py app.py
 
 4. Jika ada keterangan output pada script tersebut copy url nya dan jalankan di web browser
    
