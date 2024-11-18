@@ -13,9 +13,11 @@ Ini adalah aplikasi Task Manager sederhana berbasis web yang dibuat dengan Pytho
   - psutil
 
 ## Instalasi
-1. Kloning repositori ini:
+1. Clone Repository:
    ```bash
    git clone https://github.com/SyhrlmyZID/project-task-manager.git
+
+   ```bash
    cd project-task-manager
    
 ![](screenshot.gif)
